@@ -1,0 +1,55 @@
+.titulo-principal{
+    padding-left: 30px;
+}
+
+#banner{
+    width:100%;
+    opacity: 12.3px;
+}
+
+.principal{
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+em strong{
+    color:red;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.diferenciales{
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales{
+    width: 50%;
+}
+
+.mapa {
+    padding: 3em 0;
+    /* Con este elemento se hace el degradado,se puede ajustar grados de degradado, que color queremos que ocupe mas espacio etc */
+    background: linear-gradient(#FEFEFE, #888888);
+}
